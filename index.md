@@ -6,7 +6,7 @@ layout: page
 
 <img src="https:///zyrzjyzxy.github.io/images/zyr/zyr_life.jpg" class="floatpic" width="360" height="480">
 
-Here is **Yarui Zhang**.
+Here is **Yarui Zhang(Meson,张雅瑞)**.
 
 
 I am a junior undergraduate student majoring in **computer science** in [the School of Computer Science and Engineering](https://scst.zstu.edu.cn/) at ZheJiang Sci-Tech University . 

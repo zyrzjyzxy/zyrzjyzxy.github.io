@@ -17,9 +17,9 @@ PDF翻译技术：LLM翻译>图片翻译>文本翻译
 
 效果评估：公式和文本格式会有错误
 
-<center>
+<!-- <center>
 <img src="PDF-Translation-Comparison.assets/沉浸式翻译-图片式翻译.png">
-</center>
+</center> -->
 
 ![沉浸式翻译-图片式翻译.png](PDF-Translation-Comparison.assets/沉浸式翻译-图片式翻译.png)
 
@@ -49,7 +49,7 @@ PDF翻译付费，(之前是免费的)
 
 [GPT 学术优化 (chatwithpaper.org)](https://academic.chatwithpaper.org/)
 
-![GPT学术翻译项目地址.png]((PDF-Translation-Comparison.assets/GPT学术翻译项目地址.png))
+![GPT学术翻译项目地址.png](PDF-Translation-Comparison.assets/GPT学术翻译项目地址.png)
 
 **服务**
 免费且选择多，有开源地址，但不稳定
@@ -58,9 +58,13 @@ PDF翻译付费，(之前是免费的)
 ```
 
 **效果评估**
+
 效果好
-![[GPT学术-AI翻译.png]]
-![[保留格式的效果最佳.png]]
+
+![GPT学术-AI翻译.png](PDF-Translation-Comparison.assets/GPT学术-AI翻译.png)
+
+![保留格式的效果最佳.png](PDF-Translation-Comparison.assets/保留格式的效果最佳.png)
+
 
 # 局部翻译-zotero-谷歌翻译
 
@@ -70,6 +74,7 @@ PDF翻译付费，(之前是免费的)
 免费，无需API，直接选择，高效翻译
 
 **效果评估：**
+
 效果良好，但需要代理
 
-![[Zotero的谷歌翻译.png]]
+![Zotero的谷歌翻译.png](PDF-Translation-Comparison.assets/Zotero的谷歌翻译.png)

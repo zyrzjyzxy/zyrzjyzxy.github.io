@@ -38,16 +38,16 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Awards
-    url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+  # - title: Publications
+  #   url: /publications/
+  # - title: Awards
+  #   url: /awards/
+  # - title: Hobbies
+  #   url: /hobbies/
   - title: Blogs
     url: /blogs/
-  - title: Teams
-    url: /teams/
+  # - title: Teams
+  #   url: /teams/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

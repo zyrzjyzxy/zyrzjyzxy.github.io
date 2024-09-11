@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2024
 
-- [参考博客](https://caihanlin.com/blogs/aaai-24/)
+- [本网站搭建的参考博客](https:///zyrzjyzxy.github.io/blogs/web.md)
 
 
 

@@ -8,18 +8,13 @@ title: Blogs
 
 ### 2024
 
-- [学术检索](https:///zyrzjyzxy.github.io/blogs/AcademicSearch.md)
+- [主流PDF翻译平台对比](https:///zyrzjyzxy.github.io/blogs/PDF-Translation-Comparison)
 
-- [学术检索2](https:///zyrzjyzxy.github.io/blogs/AcademicSearch)
-
-
+- [学术检索的正确姿势](https:///zyrzjyzxy.github.io/blogs/AcademicSearch)
 
 - [本网站搭建的参考博客-原地址](https://caihanlin.com/blogs/web)
 
 
-- [本网站搭建的参考博客-本站test1](https:///zyrzjyzxy.github.io/blogs/web.md)
-
-- [本网站搭建的参考博客-本站test2](https:///zyrzjyzxy.github.io/blogs/web.md)
 
 
 

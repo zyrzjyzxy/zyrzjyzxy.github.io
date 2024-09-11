@@ -17,10 +17,6 @@ PDF翻译技术：LLM翻译>图片翻译>文本翻译
 
 效果评估：公式和文本格式会有错误
 
-<center>
-<img src="PDF-Translation-Comparison.assets/沉浸式翻译-图片式翻译.png">
-</center>
-
 ![沉浸式翻译-图片式翻译.png](PDF-Translation-Comparison.assets/沉浸式翻译-图片式翻译.png)
 
 ## 谷歌翻译
@@ -31,9 +27,7 @@ PDF翻译技术：LLM翻译>图片翻译>文本翻译
 
 效果评估：差
 
-<center>
-<img src="PDF-Translation-Comparison.assets/google.png">
-</center>
+
 ![谷歌翻译-文本翻译.png](PDF-Translation-Comparison.assets/google.png)
 
 

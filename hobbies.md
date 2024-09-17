@@ -14,11 +14,12 @@ After a busy day in the morning, I like to run at night on the school track. At 
 
 <br>PS: In my freshman year, I preferred to run in the morning. However, due to various uncontrollable factors such as study pressure, I adjusted to night running.
 
-<div>
+<center>
 <img src="\images\hobbies\run.jpg">
-</div>
+</center>
 <br>
 
+---
 
 ## Literature
 
@@ -28,9 +29,9 @@ For Chinese language literature, I love Qu Yuan's romantic and uninhibited writi
 
 <br>During the summer vacation after the college entrance examination, I studied Qu Yuan's masterpiece Li Sao and was able to recite the entire poem of 2,476 words.
 
-<div>
+<center>
 <img src="\images\hobbies\lisao.jpg">
-</div>
+</center>
 <br>
 
 
@@ -51,7 +52,7 @@ As for foreign literature, I love Soviet literature, and my most admired writers
 
 
 
-
+---
 
 ## Music
 
@@ -82,7 +83,7 @@ The easy and simple lofi is the spice of my focused approach to learning tasks, 
 Out of my love for electronic music, I started arranging music, made a few demos with FL-Studio, and even had a couple of light singles released on music platforms 😋. I also purchased the then newest Arturia MiniLab 3, which was a bit of a crazy experience.
 
 <div>
-<img src="images/hobbies/minilab3.png">
+<img src="/images/hobbies/minilab3.png">
 </div>
 <br>
 

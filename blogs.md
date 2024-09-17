@@ -14,6 +14,9 @@ title: Blogs
 
 - [本网站搭建的参考博客-原地址](https://caihanlin.com/blogs/web)
 
+### July 2024
+
+- [论：如何用一年时间修读完计科两年课程](https:///zyrzjyzxy.github.io/blogs/2023-2024)
 
 
 

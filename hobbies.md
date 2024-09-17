@@ -42,13 +42,8 @@ My love for Soviet literature started when I read the anthology of short stories
 
 Since then, I have read Pawlstowski's and Babel's masterpieces, and deepened my love for Soviet literature with its profound exploration of human nature and philosophical reflections!
 
-<style>
-.two img {
-  width: 50%;
-}
-</style>
 
-<div class="two">
+<div class="third">
 <img src="\images\hobbies\Paustovsky.jpg">
 <img src="\images\hobbies\Babel.png">
 </div>

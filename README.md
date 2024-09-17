@@ -4,7 +4,7 @@ Here is **Yarui Zhang(Meson,张雅瑞)**. This is my personal web repo.
 
 ## Update and News
 
-- **Sep 2024:** This Github Page have been built based on [Hanlin Cai's site](https://github.com/GuangLun2000/GuangLun2000.github.io.) and [YiYun Kang](https://kangyiyun.github.io)
+- **Sep 2024:** This Github Page have been built based on [Hanlin Cai's site](https://github.com/GuangLun2000/GuangLun2000.github.io) and [YiYun Kang](https://kangyiyun.github.io)
 
 ## Statement
 

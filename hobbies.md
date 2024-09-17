@@ -42,7 +42,7 @@ My love for Soviet literature started when I read the anthology of short stories
 
 Since then, I have read Pawlstowski's and Babel's masterpieces, and deepened my love for Soviet literature with its profound exploration of human nature and philosophical reflections!
 
-<div class="two">
+<div class="twice">
 <img src="\images\hobbies\Paustovsky.jpg">
 <img src="\images\hobbies\Babel.png">
 </div>
@@ -59,7 +59,7 @@ Since then, I have read Pawlstowski's and Babel's masterpieces, and deepened my 
 
 My song list is a mix of two incompatible music genres:
 
-<div >
+<div class="twice">
 <img src="\images\hobbies\lofi.jpg">
 <img src="\images\hobbies\Handcore.jpg">
 </div>

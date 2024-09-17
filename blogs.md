@@ -6,17 +6,25 @@ title: Blogs
 
 ## Chinese Blogs
 
-### 2024
+### September 2024
 
 - [主流PDF翻译平台对比](https:///zyrzjyzxy.github.io/blogs/PDF-Translation-Comparison)
 
-- [学术检索的正确姿势](https:///zyrzjyzxy.github.io/blogs/AcademicSearch)
+- [Zotero从入门到精通的学习路线😯](https:///zyrzjyzxy.github.io/blogs/Zotero.intro)
+
+- [一文搞懂😎-计算机视觉（CV）和计算机图形学（CG）](https:///zyrzjyzxy.github.io/blogs/CV-CG)
 
 - [本网站搭建的参考博客-原地址](https://caihanlin.com/blogs/web)
 
+### August 2024
+
+- [学术检索的正确姿势🤗](https:///zyrzjyzxy.github.io/blogs/AcademicSearch)
+
+- [对obsidian经典示例库的方向探索](https:///zyrzjyzxy.github.io/blogs/obsidian.exploration)
+
 ### July 2024
 
-- [论：如何用一年时间修读完计科两年课程](https:///zyrzjyzxy.github.io/blogs/2023-2024)
+- [论：如何用一年时间修读完计科两年课程😋](https:///zyrzjyzxy.github.io/blogs/2023-2024)
 
 
 

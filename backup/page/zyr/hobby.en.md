@@ -1,6 +1,4 @@
 
-个人评价
-
 ## Sports 
 
 ### Mid-distance running amateur

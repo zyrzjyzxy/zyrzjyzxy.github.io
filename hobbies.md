@@ -12,7 +12,7 @@ title: Hobbies
 
 After a busy day in the morning, I like to run at night on the school track. At first, I went for night running to fulfill the target of running kilometers for the school curriculum, but later on, I gradually fell in love with the process of night running. Running removes the fatigue that builds up throughout the day, refreshes my body, and gives me the courage to tackle any challenge. I really enjoy the feeling of breaking a sweat and pushing the limits of my endurance on the track.
 
-PS: In my freshman year, I preferred to run in the morning. However, due to various uncontrollable factors such as study pressure, I adjusted to night running.
+<br>PS: In my freshman year, I preferred to run in the morning. However, due to various uncontrollable factors such as study pressure, I adjusted to night running.
 
 <div>
 <img src="\images\hobbies\run.jpg">
@@ -26,7 +26,7 @@ PS: In my freshman year, I preferred to run in the morning. However, due to vari
 
 For Chinese language literature, I love Qu Yuan's romantic and uninhibited writing. I was deeply touched by Qu Yuan's rough life and ambitious aspirations.
 
-During the summer vacation after the college entrance examination, I studied Qu Yuan's masterpiece Li Sao and was able to recite the entire poem of 2,476 words.
+<br>During the summer vacation after the college entrance examination, I studied Qu Yuan's masterpiece Li Sao and was able to recite the entire poem of 2,476 words.
 
 <div>
 <img src="\images\hobbies\lisao.jpg">
@@ -38,9 +38,9 @@ During the summer vacation after the college entrance examination, I studied Qu 
 
 As for foreign literature, I love Soviet literature, and my most admired writers are `Konstantin Paustovsky` and `Izak Babel`.
 
-My love for Soviet literature started when I read the anthology of short stories that came with my high school dormitory book under the covers. In that collection, Babel's “Crossing the Zbruch River” was characterized by its magnificent, strange and extremely realistic writing, and Pawlstowski's “Dawn of the Smoke and Rain” was characterized by its beautiful atmosphere and subtle emotions. Both of them touched my soul deeply and made my bleak senior year of high school light up with hope.
+<br>My love for Soviet literature started when I read the anthology of short stories that came with my high school dormitory book under the covers. In that collection, Babel's “Crossing the Zbruch River” was characterized by its magnificent, strange and extremely realistic writing, and Pawlstowski's “Dawn of the Smoke and Rain” was characterized by its beautiful atmosphere and subtle emotions. Both of them touched my soul deeply and made my bleak senior year of high school light up with hope.
 
-Since then, I have read Pawlstowski's and Babel's masterpieces, and deepened my love for Soviet literature with its profound exploration of human nature and philosophical reflections!
+<br>Since then, I have read Pawlstowski's and Babel's masterpieces, and deepened my love for Soviet literature with its profound exploration of human nature and philosophical reflections!
 
 
 <div class="third">
@@ -74,7 +74,7 @@ My song list is a mix of two incompatible music genres:
 
 The easy and simple lofi is the spice of my focused approach to learning tasks, adding a taste of life to the monotonous learning process.
 
-The  powerful Handcore gets my adrenaline pumping on the run and helps me grit my teeth and push my ceiling.
+<br>The powerful Handcore gets my adrenaline pumping on the run and helps me grit my teeth and push my ceiling.
 
 
 ### Arranging for Beginners

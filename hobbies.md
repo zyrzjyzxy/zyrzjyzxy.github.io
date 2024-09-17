@@ -43,12 +43,12 @@ My love for Soviet literature started when I read the anthology of short stories
 Since then, I have read Pawlstowski's and Babel's masterpieces, and deepened my love for Soviet literature with its profound exploration of human nature and philosophical reflections!
 
 <div class="two">
-<img src="images\hobbies\Paustovsky.jpg">
-<img src="images\hobbies\Babel.png">
+<img src="\images\hobbies\Paustovsky.jpg">
+<img src="\images\hobbies\Babel.png">
 </div>
 <br>
 
-![](images\hobbies\Paustovsky.jpg)
+
 
 
 
@@ -60,8 +60,8 @@ Since then, I have read Pawlstowski's and Babel's masterpieces, and deepened my 
 My song list is a mix of two incompatible music genres:
 
 <div >
-<img src="images\hobbies\lofi.jpg">
-<img src="images\hobbies\Handcore.jpg">
+<img src="\images\hobbies\lofi.jpg">
+<img src="\images\hobbies\Handcore.jpg">
 </div>
 <br>
 

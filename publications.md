@@ -9,7 +9,7 @@ title: Publications
 
 ## Ongoing Project
 
-- **Deep Learning Framework Based Color Migration for Fashion Apparel Implementation**
+- **Deep Learning Framework Based Color Transfer for Fashion Apparel Implementation**
 - Supervised by [Prof.Kim Yiu](https://www.scholarmate.com/P/iQrQNj) .
 
 <br>In the ever-changing world of fashion, color migration plays a vital role in ensuring the appeal and attractiveness of apparel. Our project aims to implement a deep learning framework that facilitates color migration in fashion apparel, thereby enhancing the versatility and adaptability of designs.

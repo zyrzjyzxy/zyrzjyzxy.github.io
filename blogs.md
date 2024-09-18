@@ -8,6 +8,8 @@ title: Blogs
 
 ### September 2024
 
+- [生活经验🥰-如何最高效地抢到高铁票](https:///zyrzjyzxy.github.io/blogs/Bypass-Zhixing)
+
 - [主流PDF翻译平台对比](https:///zyrzjyzxy.github.io/blogs/PDF-Translation-Comparison)
 
 - [Zotero从入门到精通的学习路线😯](https:///zyrzjyzxy.github.io/blogs/Zotero.intro)

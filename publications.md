@@ -20,6 +20,7 @@ title: Publications
 
 ## Early Project
 
+
 - **Implementation of sketch-based algorithm for garment image generation**
 
 <br>In an undergraduate mentor project, garment images were generated using garment texture patches and sketch outlines. Multiple papers such as styleGAN and other cutting edge deep learning models were called based on Linux during the thesis implementation to implement the data processing and some of the image algorithms.
@@ -28,8 +29,15 @@ title: Publications
 
 <br>Undergraduate Mentorship Projects
 
+<center>
+<img src="\images\publications\FFT.png">
+</center>
+<br>
+
 
 - **Haier Home Appliances KV Products Indian Style Background Image Generation Workflow**
+
+<img src="\images\publications\haier.png" class="floatpic" width="260" height="180" style="float: right;">
 
 <br>This project aims to develop a set of industrial-grade standardized AI for Haier Home Appliances series product effect images for the Indian market
 Workflow. I completed data labeling for several home appliances and trained separate SDXL-based background

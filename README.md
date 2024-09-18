@@ -1,6 +1,6 @@
 # About me
 
-Here is **Yarui Zhang(Meson,张雅瑞)**. This is my personal web repo. 
+Here is **Yarui Zhang(MesonRing,张雅瑞)**. This is my personal web repo. 
 
 ## Update and News
 

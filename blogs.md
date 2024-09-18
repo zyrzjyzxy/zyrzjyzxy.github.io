@@ -4,6 +4,8 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
+> Update: September 18th, 2024
+
 ## Chinese Blogs
 
 ### September 2024

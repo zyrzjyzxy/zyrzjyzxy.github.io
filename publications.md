@@ -35,7 +35,7 @@ title: Publications
 <br>
 
 
-**Haier Home Appliances KV Products Indian Style Background Image Generation Workflow**<br>
+<br>**Haier Home Appliances KV Products Indian Style Background Image Generation Workflow**<br>
 
 <img src="\images\publications\haier.png" class="floatpic" width="260" height="180" style="float: right;">
 

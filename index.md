@@ -37,7 +37,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## My CV
 
-> Update: September 18th, 2024
+> Update: September 23th, 2024
 
 If you want to know more about me, welcome to view My [CV](https:///zyrzjyzxy.github.io/file/zyr_20240923.pdf ).
 <br>

@@ -4,6 +4,8 @@ Here is **Yarui Zhang(MesonRing,张雅瑞)**. This is my personal web repo.
 
 ## Update and News
 
+**If you like it, please STAR it! **🥰
+
 - **Sep 2024:** This Github Page have been built based on [Hanlin Cai's site](https://github.com/GuangLun2000/GuangLun2000.github.io) and [YiYun Kang 's site](https://github.com/kangyiyun/kangyiyun.github.io)
 
 

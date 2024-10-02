@@ -10,6 +10,11 @@ title: Blogs
 
 ### September 2024
 
+
+- [最高效、轻量、实用的桌面美化设置😎](https:///zyrzjyzxy.github.io/blogs/desktop_update)
+
+- [教你如何高效查看项目热度-学会github insight的正确用法🤗](https:///zyrzjyzxy.github.io/blogs/Learn_github_Insight)
+
 - [生活经验🥰-如何最高效地抢到高铁票](https:///zyrzjyzxy.github.io/blogs/Bypass-Zhixing)
 
 - [主流PDF翻译平台对比](https:///zyrzjyzxy.github.io/blogs/PDF-Translation-Comparison)

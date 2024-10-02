@@ -31,7 +31,7 @@
 
 ## 推荐回答：
 
-![](assets/一文搞懂Insights.png)
+![](Learn_github_Insight.assets/一文搞懂Insights.png)
 
 
 # 后续计划：

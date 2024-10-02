@@ -10,7 +10,7 @@ title: Blogs
 
 ### September 2024
 
-- [生活经验🥰-补齐拼多多退货运费的正确姿势](https:///zyrzjyzxy.github.io/blogs/Bypass-Zhixing)
+- [生活经验🥰-补齐拼多多退货运费的正确姿势](https:///zyrzjyzxy.github.io/blogs/PDD_Returns)
 
 - [最高效、轻量、实用的桌面美化设置😎](https:///zyrzjyzxy.github.io/blogs/desktop_update)
 

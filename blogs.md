@@ -6,7 +6,15 @@ title: Blogs
 
 > Update: November 4th, 2024
 
-## Chinese Blogs
+# Chinese Blogs
+
+## Monthly Blogs
+
+### October 2024
+
+- [生活经验🥰-笔记本显示屏黑屏报错解决](https:///zyrzjyzxy.github.io/blogs/laptop.black-screen.solution)
+
+- [一文搞懂😎-速通Stream账号注销](https:///zyrzjyzxy.github.io/blogs/Cancel.Stream-account)
 
 ### September 2024
 
@@ -36,6 +44,14 @@ title: Blogs
 
 - [论：如何用一年时间修读完计科两年课程😋](https:///zyrzjyzxy.github.io/blogs/2023-2024)
 
+## Blogs for Other Platforms
 
+### CSDN Blogs
 
+- [d3dxSkinManage常见BUG解决方案](https://blog.csdn.net/m0_74446444/article/details/140748650?spm=1001.2014.3001.5501)
 
+- [彻底解决：win任务栏应用程序图标异常](https://blog.csdn.net/m0_74446444/article/details/138325788?spm=1001.2014.3001.5501)
+
+- [汇编语言上机实验前必须知道的知识点（80x86的Hello World程序）（伪操作、DOS功能号）](https://blog.csdn.net/m0_74446444/article/details/137526282?spm=1001.2014.3001.5501)
+
+- [ubuntu中无法修复缺失的软件包、无法下载 、中止安装](https://blog.csdn.net/m0_74446444/article/details/137438438?spm=1001.2014.3001.5501)

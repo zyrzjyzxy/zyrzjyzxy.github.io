@@ -31,4 +31,6 @@
 
 ## 参考资料
 
-<br>【笔记本电源键亮的，却黑屏】 https://www.bilibili.com/video/BV1QV4y187ik/?share_source=copy_web&vd_source=2ef7adfc171773d3b25a94de4f40ebb3
+<br>
+
+[笔记本电源键亮的，却黑屏](https://www.bilibili.com/video/BV1QV4y187ik/?share_source=copy_web&vd_source=2ef7adfc171773d3b25a94de4f40ebb3)

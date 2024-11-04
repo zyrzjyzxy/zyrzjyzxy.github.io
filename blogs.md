@@ -4,7 +4,7 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-> Update: October 2nd, 2024
+> Update: November 4th, 2024
 
 ## Chinese Blogs
 

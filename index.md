@@ -24,7 +24,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Sep 2022 - present
 - **junior undergraduate student**
 <!-- - GPA Ranking: **1/177（top 1%)** -->
-- Academic Mentor：Prof.[Kim Yiu](https://www.scholarmate.com/P/iQrQNj) .
+- Academic Mentor：Prof.[Kim Yiu](https://kns.cnki.net/kcms2/author/detail?v=OJyTKzW6FepNuSjDJxPzeMPyV_j2GCnxtQNs_iSPlkjuev3mNv0SUJBwJOOJtVV53ptiSZ9P7a_mP1lEXKAO16bIdQDGFSfwQHQ8frJHKfz5X3fg4vBSdQ==&uniplatform=NZKPT&language=CHS) .
 
 
 ## Research Interests

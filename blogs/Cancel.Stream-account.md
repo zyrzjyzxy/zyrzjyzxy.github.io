@@ -11,17 +11,17 @@
 
 ![](Cancel.Stream-account.assets/删除成功.png)
 
-</br>
+
 
 ## 方法
 
 <br>
 **1.在账号页面，申请过“删除账号”，请关注之后stream发的后续邮件。**
-</br>
+
 
 <br>
 我之前就是由于没关注邮件信息，而错过了删除验证时间。
-</br>
+
 
 ![](Cancel.Stream-account.assets/关注之后的回复邮件.png)
 
@@ -29,7 +29,7 @@
 
 **2.重新在stream注销账号，选择“找回账号”，重置密码**
 
-</br>
+
 
 <br>这里stream客服的回复邮件中，“创建新的支票工单”的说法，确实比较模棱两可。
 
@@ -43,13 +43,13 @@
 
 ![](Cancel.Stream-account.assets/重新申请.png)
 
-</br>
+
 
 <br>
 
 **3.重新申请“删除账号”，并在申请理由中，附上前一个客服回复里的票证编号（ticker number）**
 
-</br>
+
 
 
 <br>等待客服的回复邮件，基本上同一天就能收到。
@@ -58,6 +58,6 @@
 
 **得到回复——删除成功！！！**
 
-</br>
+
 
 ![](Cancel.Stream-account.assets/再次申请成功.png)

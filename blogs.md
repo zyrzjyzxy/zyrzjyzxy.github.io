@@ -4,11 +4,17 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-> Update: November 4th, 2024
+> Update: December 6th, 2024
 
 # Chinese Blogs
 
 ## Monthly Blogs
+
+### November 2024
+
+- [音轨消失怎么办-pr合并音轨的方法](https:///zyrzjyzxy.github.io/blogs/PR-Merge-Audio-Tracks)
+
+- [一步到位-解决Ubuntu关机BUG](https:///zyrzjyzxy.github.io/blogs/ubuntu-shutdown)
 
 ### October 2024
 

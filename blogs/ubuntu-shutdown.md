@@ -7,7 +7,7 @@
 
 <br>所以，这次必须要搞定ubuntu关机问题，以绝后患。
 
-</br>
+
 
 # 方法
 
@@ -25,7 +25,7 @@
 
 <br>  **显示关机信息后发现，关机卡死在黑屏界面的原因是出现了`A stop job is running for Snappy daemon...`问题，导致需要等待很长时间才会关机。下面要缩短关机的等待时间。**
 
-</br>
+
 
 ### step 2 配置DefaultTimeoutStopSec
 
@@ -36,7 +36,7 @@
 
 <br>- 重启即可
 
-</br>
+
 
 # 参考博客
 

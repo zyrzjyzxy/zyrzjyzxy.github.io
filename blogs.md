@@ -4,15 +4,19 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-> Update: January 11th, 2025
+> Update: February 3rd, 2025
 
 # Chinese Blogs
 
 ## Monthly Blogs
 
+### January 2025 
+
+- [一文搞懂😎-Inpaint和Repaint的区别](https:///zyrzjyzxy.github.io/blogs/Inpaint.Repaint)
+
 ### December 2024
 
-- [2024CSIG青年科学家会议（更新中）](https:///zyrzjyzxy.github.io/blogs/2024CSIG)
+- [学术分享-2024CSIG青年科学家会议](https:///zyrzjyzxy.github.io/blogs/2024CSIG)
 
 - [2024最喜欢的名词-机魂不悦👾](https:///zyrzjyzxy.github.io/blogs/no.pleasure.40k)
 

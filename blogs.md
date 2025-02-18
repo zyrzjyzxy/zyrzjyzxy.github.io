@@ -4,11 +4,17 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-> Update: February 3rd, 2025
+> Update: February 19th , 2025
 
 # Chinese Blogs
 
 ## Monthly Blogs
+
+### February 2025 
+
+- [学术分享-从零开始写SCI一作的本科生](https:///zyrzjyzxy.github.io/blogs/First.SCI)
+
+- [拒绝内耗-如何处理考研中的焦虑](https:///zyrzjyzxy.github.io/blogs/Dealing.Anxiety)
 
 ### January 2025 
 

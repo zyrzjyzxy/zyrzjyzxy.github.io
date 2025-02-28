@@ -4,17 +4,24 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Update: September 18th, 2024
+> Update: February 28th , 2025
 
 
 ## Ongoing Project
 
-- **Deep Learning Framework Based Color Transfer for Fashion Apparel Implementation**
-- Supervised by [Prof.Kim Yiu](https://www.scholarmate.com/P/iQrQNj) .
+- **Preparing for the Postgraduate Entrance Examination**
 
-<br>In the ever-changing world of fashion, color migration plays a vital role in ensuring the appeal and attractiveness of apparel. Our project aims to implement a deep learning framework that facilitates color migration in fashion apparel, thereby enhancing the versatility and adaptability of designs.
+<br>I am currently in the process of preparing for the postgraduate entrance examination. I'm working hard on reviewing various professional knowledge, strengthening my English skills, and constantly doing a large number of practice questions to improve my problem-solving abilities. I've made a detailed study plan to ensure that I can systematically cover all the subjects and topics that will be tested, aiming to achieve good results in the upcoming exam.
 
-<br>
+<br>(In progress)
+
+- **iRetexturing: Intelligent Fashion Items Retexturing via Diffusion Models**
+- Supervised by [Prof.Yao Jin](https://orcid.org/0000-0001-9518-7063) and [Dr.Xin Huang](https://orcid.org/0000-0001-7113-5066).
+
+<br>This paper introduces iRetexturing, a new framework for intelligent fashion items retexturing that integrates diffusion models to address the persistent challenge of preserving structural fidelity during texture transfer. While existing methods often compromise photorealistic quality or intuitive control, our quadripartite continuous repainting strategy synergizes texture expansion, cross-quadrant feature synchronization, and adaptive conditioning networks to achieve seamless material integration.
+
+<br>(SCI JRC:Q2 under review)
+
 
 ---
 

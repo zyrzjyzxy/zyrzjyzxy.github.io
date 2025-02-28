@@ -24,7 +24,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Sep 2022 - present
 - **junior undergraduate student**
 <!-- - GPA Ranking: **1/177（top 1%)** -->
-- Academic Mentor：Prof.[Kim Yiu](https://kns.cnki.net/kcms2/author/detail?v=OJyTKzW6FepNuSjDJxPzeMPyV_j2GCnxtQNs_iSPlkjuev3mNv0SUJBwJOOJtVV53ptiSZ9P7a_mP1lEXKAO16bIdQDGFSfwQHQ8frJHKfz5X3fg4vBSdQ==&uniplatform=NZKPT&language=CHS) .
+- Academic Mentor：[Prof.Yao Jin](https://orcid.org/0000-0001-9518-7063)v=OJyTKzW6FepNuSjDJxPzeMPyV_j2GCnxtQNs_iSPlkjuev3mNv0SUJBwJOOJtVV53ptiSZ9P7a_mP1lEXKAO16bIdQDGFSfwQHQ8frJHKfz5X3fg4vBSdQ==&uniplatform=NZKPT&language=CHS) .
 
 
 ## Research Interests
@@ -37,7 +37,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## My CV
 
-> Update: September 23th, 2024
+> Update: February 28th , 2025
 
-If you want to know more about me, welcome to view My [CV](https:///zyrzjyzxy.github.io/file/zyr_20240923.pdf ).
+If you want to know more about me, welcome to view My [CV](https:///zyrzjyzxy.github.io/file/zyr_20250228.pdf ).
 <br>

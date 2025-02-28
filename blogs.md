@@ -8,7 +8,7 @@ title: Blogs
 
 # Chinese Blogs
 
-## Monthly Blogs
+**Monthly Blogs**
 
 ### February 2025 
 

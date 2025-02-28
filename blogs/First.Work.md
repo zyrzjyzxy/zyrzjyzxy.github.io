@@ -1,4 +1,8 @@
-![](First.Work.assets/黄鱼面.png)
+
+<center>
+<img src="First.Work.assets/黄鱼面.png">
+</center>
+
 > 实习下班的晚上，终于吃上了那家排队超长的网红黄鱼面。酥脆的小黄鱼泡在奶白鲜汤里，瞬间治愈了加班的疲惫。
 
 ## 前言

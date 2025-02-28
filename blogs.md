@@ -4,13 +4,15 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-> Update: February 19th , 2025
+> Update: February 28th , 2025
 
 # Chinese Blogs
 
 ## Monthly Blogs
 
 ### February 2025 
+
+- [学习经验-零基础如何在大二暑期拿到实习](https:///zyrzjyzxy.github.io/blogs/First.Work)
 
 - [学术分享-从零开始写SCI一作的本科生](https:///zyrzjyzxy.github.io/blogs/First.SCI)
 

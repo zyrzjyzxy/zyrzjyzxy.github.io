@@ -24,7 +24,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Sep 2022 - present
 - **junior undergraduate student**
 <!-- - GPA Ranking: **1/177（top 1%)** -->
-- Academic Mentor：[Prof.Yao Jin](https://orcid.org/0000-0001-9518-7063)v=OJyTKzW6FepNuSjDJxPzeMPyV_j2GCnxtQNs_iSPlkjuev3mNv0SUJBwJOOJtVV53ptiSZ9P7a_mP1lEXKAO16bIdQDGFSfwQHQ8frJHKfz5X3fg4vBSdQ==&uniplatform=NZKPT&language=CHS) .
+- Academic Mentor：[Prof.Yao Jin](https://orcid.org/0000-0001-9518-7063)
 
 
 ## Research Interests

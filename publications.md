@@ -9,18 +9,33 @@ title: Publications
 
 ## Ongoing Project
 
-<br>**Preparing for the Postgraduate Entrance Examination**
-
-<br>I am currently in the process of preparing for the postgraduate entrance examination. I'm working hard on reviewing various professional knowledge, strengthening my English skills, and constantly doing a large number of practice questions to improve my problem-solving abilities. I've made a detailed study plan to ensure that I can systematically cover all the subjects and topics that will be tested, aiming to achieve good results in the upcoming exam.
-
-<br>(In progress)
 
 <br>**iRetexturing: Intelligent Fashion Items Retexturing via Diffusion Models**
-- Supervised by [Prof.Yao Jin](https://orcid.org/0000-0001-9518-7063) and [Dr.Xin Huang](https://orcid.org/0000-0001-7113-5066).
 
-<br>This paper introduces iRetexturing, a new framework for intelligent fashion items retexturing that integrates diffusion models to address the persistent challenge of preserving structural fidelity during texture transfer. While existing methods often compromise photorealistic quality or intuitive control, our quadripartite continuous repainting strategy synergizes texture expansion, cross-quadrant feature synchronization, and adaptive conditioning networks to achieve seamless material integration.
+<br>- Authors: <u>Yarui Zhang</u>, Yao Jin, Xin Huang
 
-<br>(SCI JRC:Q2 under review)
+<br>- Journal: Textile Research Journal, 2025 [PDF](https:///zyrzjyzxy.github.io/file/zhang-et-al-2025-iretexturing-intelligent-fashion-items-retexturing-via-diffusion-models.pdf)
+
+
+
+
+<img src="\images\publications\iRetexturing.png" class="floatpic" width="260" height="180" style="float: right;">
+
+<br>This paper introduces iRetexturing, a novel framework designed to address the challenges of photorealism and structural integrity in fashion item retexturing. The method utilizes a three-stage pipeline integrating diffusion models with geometric priors: high-resolution preprocessing via masked super-resolution and semantic segmentation, quadripartite texture synthesis for seamless pattern tiling, and ControlNet-guided diffusion employing dual spatial constraints (Canny edges and depth maps). Evaluation on 4,400 fashion images demonstrates that iRetexturing significantly outperforms state-of-the-art methods like DiffuseIT, achieving superior Perceptual Image Patch Similarity (LPIPS: 0.1385) and Structural Similarity (SSIM: 0.8323), effectively bridging the gap between conceptual prototypes and production-ready assets.
+
+
+<br>**Patent Information:**  This work has resulted in a National Invention Patent [PDF](https:///zyrzjyzxy.github.io/file/ZL-2025109124972.pdf), which further validates the technical innovation and practical application potential of the iRetexturing framework in the fashion industry.
+
+<br>**Example-based Approach for Automatic Garment Pattern Generation**
+
+<br>- Authors: Roujia Hong, <u>Yarui Zhang</u>, Qi Zhang, Diqing Qian, Yao Jin, Huaxiong Zhang, Lili He
+
+<br>- Journal: Textile Research Journal, 2025 [PDF](https:///zyrzjyzxy.github.io/file/hong-et-al-2025-example-based-approach-for-automatic-garment-pattern-generation.pdf)
+
+
+<img src="\images\publications\pattern-generation.png" class="floatpic" width="260" height="180" style="float: right;">
+
+<br>This study proposes an automated, example-based method for generating 2D garment patterns from 3D meshes, addressing the industry's need for standardization and geometric fidelity. The approach features a Sparse Graph Transformer network that efficiently segments 3D garment meshes into individual panels by leveraging virtual node sparsification to reduce computational complexity. To ensure industrial viability, the framework integrates manufacturing constraints—specifically symmetry and boundary smoothness via hybrid B-spline fitting—into the flattening process. Experimental results show exceptional performance, with a segmentation accuracy of 99.99% on a self-constructed dataset and 100% structural similarity for generated patterns compared to templates, offering a robust solution for intelligent fashion manufacturing.
 
 
 ---

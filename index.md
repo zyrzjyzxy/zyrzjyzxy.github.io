@@ -9,9 +9,9 @@ layout: page
 Here is **Yarui Zhang(MesonRing,张雅瑞)**.
 
 
-I am a junior undergraduate student majoring in **computer science** in [the School of Computer Science and Engineering](https://scst.zstu.edu.cn/) at ZheJiang Sci-Tech University . 
+I am a senior undergraduate student majoring in **computer science** in [the School of Computer Science and Engineering](https://scst.zstu.edu.cn/) at ZheJiang Sci-Tech University . 
 
-Currently, I work as a research assistant in the Graduate Student Laboratory, advised by Prof.[Kim Yiu](https://www.scholarmate.com/P/iQrQNj) .
+Currently, I work as a research assistant in the Graduate Student Laboratory, advised by Prof.[Jin Yao](https://orcid.org/0000-0001-9518-7063) .
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please feel free to email me at - **mesonring@gmail.com** 
 
@@ -23,7 +23,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 **School of Computer Science and Engineering, ZheJiang Sci-Tech University(ZSTU)**
 - Sep 2022 - present
 - **junior undergraduate student**
-<!-- - GPA Ranking: **1/177（top 1%)** -->
+- GPA Ranking: **40/189（top 20% ）** 
 - Academic Mentor：[Prof.Yao Jin](https://orcid.org/0000-0001-9518-7063)
 
 
@@ -37,7 +37,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## My CV
 
-> Update: February 28th , 2025
+> Update: January 14th , 2026
 
-If you want to know more about me, welcome to view My [CV](https:///zyrzjyzxy.github.io/file/zyr_20250228.pdf ).
+If you want to know more about me, welcome to view My [CV](https:///zyrzjyzxy.github.io/file/zyr-202601.pdf ).
 <br>

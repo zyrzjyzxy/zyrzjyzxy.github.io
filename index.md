@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https:///zyrzjyzxy.github.io/images/zyr/zyr_life.jpg" class="floatpic" width="360" height="480">
+<img src="/images/zyr/zyr_life.jpg" class="floatpic" width="360" height="480">
 
 Here is **Yarui Zhang(MesonRing,张雅瑞)**.
 
@@ -16,13 +16,12 @@ Currently, I work as a research assistant in the Graduate Student Laboratory, ad
 If you are interested in any aspect of me, I would love to chat and collaborate, please feel free to email me at - **mesonring@gmail.com** 
 
 
-<br>
 
 ## Academic Background
-<img src="https:///zyrzjyzxy.github.io/images/zyr/ZSTU.jpg" class="floatpic" width="260" height="280" style="float: right;">
+<img src="/images/zyr/ZSTU.jpg" class="floatpic" width="260" height="280" style="float: right;">
 **School of Computer Science and Engineering, ZheJiang Sci-Tech University(ZSTU)**
 - Sep 2022 - present
-- **junior undergraduate student**
+- **senior undergraduate student**
 - GPA Ranking: **40/189（top 20% ）** 
 - Academic Mentor：[Prof.Yao Jin](https://orcid.org/0000-0001-9518-7063)
 
@@ -39,5 +38,5 @@ My current research focuses on practical problems that artificial intelligence f
 
 > Update: January 14th , 2026
 
-If you want to know more about me, welcome to view My [CV](https:///zyrzjyzxy.github.io/file/zyr-202601.pdf ).
+If you want to know more about me, welcome to view My [CV](/file/zyr-20260114.pdf ).
 <br>

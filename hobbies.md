@@ -15,9 +15,10 @@ After a busy day in the morning, I like to run at night on the school track. At 
 <br>PS: In my freshman year, I preferred to run in the morning. However, due to various uncontrollable factors such as study pressure, I adjusted to night running.
 
 <center>
-<img src="\images\hobbies\run.jpg">
+<img src="/images/hobbies/run.jpg">
 </center>
 <br>
+
 
 ---
 
@@ -30,9 +31,10 @@ For Chinese language literature, I love Qu Yuan's romantic and uninhibited writi
 <br>During the summer vacation after the college entrance examination, I studied Qu Yuan's masterpiece Li Sao and was able to recite the entire poem of 2,476 words.
 
 <center>
-<img src="\images\hobbies\lisao.jpg">
+<img src="/images/hobbies/lisao.jpg">
 </center>
 <br>
+
 
 
 ### Soviet Literature Fan
@@ -45,8 +47,8 @@ As for foreign literature, I love Soviet literature, and my most admired writers
 
 
 <div class="third">
-<img src="\images\hobbies\Paustovsky.jpg">
-<img src="\images\hobbies\Babel.png">
+<img src="/images/hobbies/Paustovsky.jpg">
+<img src="/images/hobbies/Babel.png">
 </div>
 <br>
 

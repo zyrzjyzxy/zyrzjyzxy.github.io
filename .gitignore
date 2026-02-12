@@ -1,0 +1,28 @@
+# Jekyll 默认生成的静态网站文件（不需要提交，GitHub Pages 会自动生成）
+_site/
+
+# 编译缓存与资源缓存
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Ruby 依赖与 Bundler
+.bundle/
+vendor/
+
+# 操作系统生成的临时文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# 编辑器与 IDE 配置
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# 日志、临时文件
+*.log
+tmp/

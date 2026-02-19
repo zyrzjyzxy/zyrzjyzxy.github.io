@@ -11,10 +11,14 @@ owner:
   # avatar:https:///zyrzjyzxy.github.io/images/zyr/zyr_life.jpg # cannot use this
   bio: "Live as if you were to die tomorrow.\nLearn as if you were to live forever."
   email: mesonring@gmail.com
-  cv: https:///zyrzjyzxy.github.io/file/zyr_20250228.pdf 
+  cv: /file/zyr_20260210.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   github: zyrzjyzxy
+  # zhihu: https://www.zhihu.com/people/xiong-zhang-yu-78
+  xiaohongshu: https://www.xiaohongshu.com/user/profile/63f59c20000000001001e178
+  # bilibili: https://space.bilibili.com/3493280543148244
+  csdn: https://blog.csdn.net/m0_74446444?spm=1000.2115.3001.5343
   # linkedin: hanlincai
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # bilibili: 594030035
@@ -83,6 +87,6 @@ disqus:
   shortname: lancecai
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "backup", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 # Latest update in 2023/12/10 by Hanlin Cai.

@@ -40,6 +40,6 @@ My current research focuses on practical problems that artificial intelligence f
 
 ##  My CV
 
-> Update: January 14th, 2026
+> Update: February 21st, 2026
 
-If you want to know more about me, welcome to view my [CV](/file/zyr_20260210.pdf).
+If you want to know more about me, welcome to view my [CV](/file/zyr_20260221.pdf).

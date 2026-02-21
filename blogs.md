@@ -4,7 +4,7 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-> Update: February 28th, 2025
+> Update: February 21st, 2026
 
 # Blogs
 

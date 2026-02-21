@@ -12,7 +12,11 @@ title: Blogs
 
 ## Chinese Blogs
 
-**Monthly Blogs**
+> Monthly Blogs
+
+### February 2026
+
+- [具身智能-从零开始部署Isaac Sim与Isaac Lab](/blogs/2602-lsaac-deploy)
 
 ### February 2025
 

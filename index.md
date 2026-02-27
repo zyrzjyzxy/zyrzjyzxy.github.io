@@ -23,7 +23,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate.
 
 - Sep 2022 – Present
 - **Senior undergraduate student**
-- GPA Ranking: **40/189 (Top 20%)**
+- Comprehensive Evaluation Ranking: **27/189（Top 15%）**
 - Academic Mentor: [Prof. Yao Jin](https://orcid.org/0000-0001-9518-7063)
 
 
